@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactJS_Testimonial_Slider/static/css/main.d7305e27.css",
+    "main.js": "/ReactJS_Testimonial_Slider/static/js/main.770497ec.js",
+    "index.html": "/ReactJS_Testimonial_Slider/index.html",
+    "main.d7305e27.css.map": "/ReactJS_Testimonial_Slider/static/css/main.d7305e27.css.map",
+    "main.770497ec.js.map": "/ReactJS_Testimonial_Slider/static/js/main.770497ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7305e27.css",
+    "static/js/main.770497ec.js"
+  ]
+}
